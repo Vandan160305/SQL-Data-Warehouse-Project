@@ -20,7 +20,7 @@ WARNING:
 -- BEGIN
 --     ALTER DATABASE DataWarehouse SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
 --     DROP DATABASE DataWarehouse;
--- END
+-- END;
 
 
 -- Create the 'DataWarehouse' database
